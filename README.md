@@ -47,7 +47,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For more information, please visit our [website](https://ayomide-philip.github.io/gatewaybc-mission/) or contact us at [email@example.com](mailto:email@example.com).
+For more information, please visit our [website](https://ayomide-philip.github.io/gatewaybc-mission/) or contact us at [gateway4054@gmail.com](mailto:gateway4054@gmail.com).
 
 ---
 
